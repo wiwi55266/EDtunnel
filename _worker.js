@@ -8,6 +8,7 @@ const listProxy = [
     { path: '/do2', proxy: '143.198.213.197' },
     { path: '/incapsula', proxy: '45.60.186.91' },
     { path: '/ovh', proxy: '15.235.162.49' },
+    { path: '/cloud', proxy: '103.133.223.52' },
 ];
 let proxyIP;
 export default {
